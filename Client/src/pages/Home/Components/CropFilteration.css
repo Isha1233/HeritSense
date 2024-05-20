@@ -1,0 +1,17 @@
+.crop-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .crop-table th,
+  .crop-table td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .crop-table th {
+    background-color: #f2f2f2;
+  }
+  
+  
