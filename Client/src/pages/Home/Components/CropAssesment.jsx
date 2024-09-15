@@ -32,8 +32,8 @@ export default function CropAssesment() {
         
       </div>
       <div className=" bg-blue-100 shadow-lg p-4 rounded-lg transition-transform transform hover:scale-105 hover:shadow-lg">
-        <img src="/fire.png" alt="Cinematography" className="w-24 h-16 mx-auto mb-2"></img>
-        <div className="text-base font-semibold mb-2">Fire Alarm</div>
+        <img src="/bell.png" alt="alarm" className="w-24 h-16 mx-auto mb-2"></img>
+        <div className="text-base font-semibold mb-2">Reminder Alarm</div>
         
       </div>
     </div>

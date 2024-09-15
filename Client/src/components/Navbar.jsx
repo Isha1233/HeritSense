@@ -7,8 +7,8 @@ export const Navbar = () => {
     const {isSignin}=useAuth();
     
     return (
-        <header className="px-56">
-            <div className="flex gap-6 justify-between p-4 text-2xl  bg-gradient-to-br  to-green-900 from-blue-100 font-medium text-green-950   ">
+        <header className="">
+            <div className="flex gap-6 justify-between p-4 text-2xl  bg-gradient-to-br   from-blue-100 font-medium   ">
                 <div className="">
                     <div className='text-yellow-950 font-bold text-4xl pl-8' >HeritSense</div>
                 </div>

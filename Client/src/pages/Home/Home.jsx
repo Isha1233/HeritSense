@@ -35,8 +35,8 @@ export const Home=()=>{
 
 
   <div className='flex gap-6'>
-  <Nutrients className='w-1/2'/>
-  <Activities className='w-1/2'/>
+  {/* <Nutrients className='w-1/2'/>
+  <Activities className='w-1/2'/> */}
   </div>
   <CropFilteration />
   <Footer/>
